@@ -147,7 +147,7 @@ And so the teacher turned it out, but still it lingered near, \
 And waited patiently about till Mary did appear. \
 \"Why does the lamb love Mary so?\" the eager children cry; \"Why, Mary loves the lamb, you know\" the teacher did reply.")
 unigrams,bigrams,trigrams = ngrams[0],ngrams[1],ngrams[2]
-# we only need the floats unless we are expanding the corpus
+# we only need the floats if we are expanding the corpus
 
 ### read test cases ###
 test_cases = open(sys.argv[1],'r').read().split("\n")

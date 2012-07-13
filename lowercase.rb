@@ -1,0 +1,1 @@
+File.open(ARGV[0], 'r') { |file| while(line = file.gets) do puts line.downcase() end }
