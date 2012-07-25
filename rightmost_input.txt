@@ -1,0 +1,5 @@
+Hello World,r
+Hello CodeEval,E
+How to learn to Cook,C
+What is your name,m
+Are you there,z 
